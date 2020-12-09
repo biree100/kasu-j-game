@@ -1,2 +1,2 @@
-# pre-conner
-新生児向け
+# kasu-j-game
+under the construction...
